@@ -30,5 +30,6 @@ public class Barbaros extends Personaje {
         Integer daño = fuerza ; 
         System.out.println(getNombre() + " golpea a " + enemigo.getNombre() + " causando " + daño + " de daño.");
     }    
+    
         
 }
