@@ -1,7 +1,6 @@
-src\main\java\db\Conexion.class
-src\main\java\Repository\ProductoRepository.class
-src\main\java\models\Usuario.class
-src\main\java\models\Producto.class
-src\main\java\Repository\ListarUsuarioRepository.class
-src\main\java\Main.class
-src\main\java\Repository\UsuarioRepository.class
+db\Conexion.class
+Main.class
+repository\UsuarioRepository.class
+models\Usuario.class
+models\Producto.class
+repository\ProductoRepository.class

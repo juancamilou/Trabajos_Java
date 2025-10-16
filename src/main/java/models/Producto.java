@@ -1,4 +1,4 @@
-package src.main.java.models;
+package models;
 
 public class Producto {
     private Long id;
@@ -13,7 +13,9 @@ public class Producto {
         this.descripcion = descripcion;
         this.cantidad_pro = cantidad_pro;
     }
-        public Producto(Long id,String nombre, Long precio, String descripcion, Long cantidad_pro) {
+
+    public Producto(Long id, String nombre, Long precio, String descripcion, Long cantidad_pro) {
+        this.id = id;
         this.nombre = nombre;
         this.precio = precio;
         this.descripcion = descripcion;
@@ -35,7 +37,9 @@ public class Producto {
     public Long getPrecio() {
         return precio;
     }
+
     public Long getId() {
         return id;
     }
+    
 }

@@ -2,6 +2,5 @@ C:\Users\juanc\Downloads\jdbc\src\main\java\db\Conexion.java
 C:\Users\juanc\Downloads\jdbc\src\main\java\Main.java
 C:\Users\juanc\Downloads\jdbc\src\main\java\models\Producto.java
 C:\Users\juanc\Downloads\jdbc\src\main\java\models\Usuario.java
-C:\Users\juanc\Downloads\jdbc\src\main\java\Repository\ListarUsuarioRepository.java
-C:\Users\juanc\Downloads\jdbc\src\main\java\Repository\ProductoRepository.java
-C:\Users\juanc\Downloads\jdbc\src\main\java\Repository\UsuarioRepository.java
+C:\Users\juanc\Downloads\jdbc\src\main\java\repository\ProductoRepository.java
+C:\Users\juanc\Downloads\jdbc\src\main\java\repository\UsuarioRepository.java

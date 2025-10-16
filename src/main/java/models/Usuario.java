@@ -1,4 +1,4 @@
-package src.main.java.models;
+package models;
 
 public class Usuario {
     private Long id;
@@ -9,7 +9,9 @@ public class Usuario {
         this.nombre = nombre;
         this.edad = edad;
     }
+
     public Usuario(Long id, String nombre, Long edad) {
+        this.id = id;
         this.nombre = nombre;
         this.edad = edad;
     }
@@ -20,7 +22,9 @@ public class Usuario {
     public Long getEdad() {
         return edad;
     }
+
     public Long getId() {
         return id;
     }
+    
 }
